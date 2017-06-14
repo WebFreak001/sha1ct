@@ -1,0 +1,5 @@
+{
+	"name": "sha1ct",
+	"license": "public domain",
+	"description": "sha1 hashing & uuid algorithm that works at compile time"
+}
